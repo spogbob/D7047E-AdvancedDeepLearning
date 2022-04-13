@@ -1,5 +1,9 @@
 # Virtual enviroment
 venv
 CIFAR10
+SVHN
 
 .ipynb_checkpoints
+Exercise_2/SVHN/
+
+Exercise_2/SVHN
